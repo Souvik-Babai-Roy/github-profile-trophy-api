@@ -5,10 +5,10 @@
 </div>
 <div align="center">
 
-[![stargazers](https://img.shields.io/github/stars/Souvik-Babai-Roy/github-profile-trophy)](https://github.com/Souvik-Babai-Roy/github-profile-trophy/stargazers)
-[![forks](https://img.shields.io/github/forks/Souvik-Babai-Roy/github-profile-trophy)](https://github.com/Souvik-Babai-Roy/github-profile-trophy/network/members)
-[![issues](https://img.shields.io/github/issues/Souvik-Babai-Roy/github-profile-trophy)](https://github.com/Souvik-Babai-Roy/github-profile-trophy/issues)
-[![license](https://img.shields.io/github/license/Souvik-Babai-Roy/github-profile-trophy)](https://github.com/Souvik-Babai-Roy/github-profile-trophy/blob/master/LICENSE)
+[![stargazers](https://img.shields.io/github/stars/Souvik-Babai-Roy/github-profile-trophy-api)](https://github.com/Souvik-Babai-Roy/github-profile-trophy-api/stargazers)
+[![forks](https://img.shields.io/github/forks/Souvik-Babai-Roy/github-profile-trophy-api)](https://github.com/Souvik-Babai-Roy/github-profile-trophy-api/network/members)
+[![issues](https://img.shields.io/github/issues/Souvik-Babai-Roy/github-profile-trophy-api)](https://github.com/Souvik-Babai-Roy/github-profile-trophy-api/issues)
+[![license](https://img.shields.io/github/license/Souvik-Babai-Roy/github-profile-trophy-api)](https://github.com/Souvik-Babai-Roy/github-profile-trophy-api/blob/master/LICENSE)
 
 </div>
 
@@ -19,7 +19,7 @@ Add the following code to your readme. When pasting the code into your profile's
 readme, change the `?username=` value to your GitHub's username.
 
 ```
-[![trophy](https://github-profile-trophy-api.vercel.app/?username=Souvik-Babai-Roy)](https://github.com/Souvik-Babai-Roy/github-profile-trophy)
+[![trophy](https://github-profile-trophy-api.vercel.app/?username=Souvik-Babai-Roy)](https://github.com/Souvik-Babai-Roy/github-profile-trophy-api)
 ```
 
 <p align="center">
@@ -31,7 +31,7 @@ readme, change the `?username=` value to your GitHub's username.
 Add optional parameter of the theme.
 
 ```
-[![trophy](https://github-profile-trophy-api.vercel.app/?username=Souvik-Babai-Roy&theme=onedark)](https://github.com/Souvik-Babai-Roy/github-profile-trophy)
+[![trophy](https://github-profile-trophy-api.vercel.app/?username=Souvik-Babai-Roy&theme=onedark)](https://github.com/Souvik-Babai-Roy/github-profile-trophy-api)
 ```
 
 <p align="center">
@@ -532,4 +532,4 @@ Check [CONTRIBUTING.md](./CONTRIBUTING.md) for more details.
 # License
 
 This product is licensed under the
-[MIT License](https://github.com/Souvik-Babai-Roy/github-profile-trophy/blob/master/LICENSE).
+[MIT License](https://github.com/Souvik-Babai-Roy/github-profile-trophy-api/blob/master/LICENSE).

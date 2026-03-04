@@ -5,54 +5,13 @@
 </div>
 <div align="center">
 
-[![stargazers](https://img.shields.io/github/stars/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/stargazers)
-[![forks](https://img.shields.io/github/forks/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/network/members)
-[![issues](https://img.shields.io/github/issues/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/issues)
-[![license](https://img.shields.io/github/license/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/blob/master/LICENSE)
-[![share](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy)](https://twitter.com/intent/tweet?text=Add%20dynamically%20generated%20GitHub%20Trophy%20on%20your%20readme%0D%0A&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy)
+[![stargazers](https://img.shields.io/github/stars/Souvik-Babai-Roy/github-profile-trophy)](https://github.com/Souvik-Babai-Roy/github-profile-trophy/stargazers)
+[![forks](https://img.shields.io/github/forks/Souvik-Babai-Roy/github-profile-trophy)](https://github.com/Souvik-Babai-Roy/github-profile-trophy/network/members)
+[![issues](https://img.shields.io/github/issues/Souvik-Babai-Roy/github-profile-trophy)](https://github.com/Souvik-Babai-Roy/github-profile-trophy/issues)
+[![license](https://img.shields.io/github/license/Souvik-Babai-Roy/github-profile-trophy)](https://github.com/Souvik-Babai-Roy/github-profile-trophy/blob/master/LICENSE)
 
 </div>
-<p align="center">
-  You can use this service for free. I'm looking for sponsors to help us keep up with this service❤️
-</p>
-<div align="center">
-  <a href="https://github.com/sponsors/ryo-ma">
-    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4" alt="Sponsor"/>
-  </a>
-</div>
 
-> ⚠️ **Notice from the Project Owner**
->
-> Hello everyone,\
-> I am the owner of this project.
->
-> Currently, due to the increase in users and traffic, the cost of maintaining
-> this service has become quite high, and it is becoming financially difficult
-> to sustain.\
-> As costs continue to rise, there is a possibility that the service may have to
-> be discontinued.\
-> We are now at a stage where monetization and financial support are essential.
->
-> Your support in the following ways would be greatly appreciated:
->
-> 1. Financial support: [GitHub Sponsors](https://github.com/sponsors/ryo-ma)
-> 2. Reducing server load through self-hosting (by forking on GitHub and
->    deploying to Vercel)
-> 3. Share your github-profile-trophy URL deployed to Vercel for load balancing
->    (Send email: saka_ro@yahoo.co.jp or Pull Request)
-
-# Load balancing endpoints
-
-These are endpoints provided by volunteers. Please use these in moderation.
-
-- [https://github-profile-trophy-liard-delta.vercel.app](https://github-profile-trophy-liard-delta.vercel.app/)
-  by [Adwitya](https://github.com/Adwitya)
-- [https://github-profile-trophy-fork-two.vercel.app](https://github-profile-trophy-fork-two.vercel.app)
-  by [hesreallyhim](https://github.com/hesreallyhim)
-- [https://github-profile-trophy-winning.vercel.app](https://github-profile-trophy-winning.vercel.app)
-  by [hongbo-wei](https://github.com/hongbo-wei)
-- [https://github-profile-trophy-kannan.vercel.app](https://github-profile-trophy-kannan.vercel.app)
-  by [kann4n](https://github.com/kann4n)
 
 # Quick Start
 
@@ -573,4 +532,4 @@ Check [CONTRIBUTING.md](./CONTRIBUTING.md) for more details.
 # License
 
 This product is licensed under the
-[MIT License](https://github.com/ryo-ma/github-profile-trophy/blob/master/LICENSE).
+[MIT License](https://github.com/Souvik-Babai-Roy/github-profile-trophy/blob/master/LICENSE).
